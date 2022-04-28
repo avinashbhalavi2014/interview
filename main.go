@@ -88,7 +88,7 @@ func validateInput(input []int) error {
 func main() {
 
 	// declare integers values
-	integers := []int{1, 2, 3, 3}
+	integers := []int{1, 2, 3, 4}
 
 	// validate input integers
 	err := validateInput(integers)
